@@ -25,7 +25,7 @@ pnpm-debug.log*
 *.swp
 
 # Local env and secrets
-.env.local
+.env
 .env.development.local
 .env.test.local
 .env.production.local
